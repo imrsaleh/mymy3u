@@ -1,0 +1,327 @@
+#EXTM3U
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bf5a32868224a6f9f3a749a9ea20eb2:0ace749c97932aa44434da3a88c1ee69
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="SSCExtra1HD.sa" tvg-shift="3" tvg-name="SSC Extra 1 HD" tvg-logo="https://i.imgur.com/lvyucaX.png" group-title="SPORT",SSC Extra 1 HD
+https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654211498/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc98baf530ac49aea60a7bf50929aa91:f8c40722bb6a0cf822588661740a08bb
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="SSCExtra2HD.sa" tvg-shift="3" tvg-name="SSC Extra 2 HD" tvg-logo="https://i.imgur.com/Xxx1tqo.png" group-title="SPORT",SSC Extra 2 HD
+https://ssc-extra2-on-prem-ak.akamaized.net/out/v1/a525c44d152f4d238aa21af75945e29c/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b05d5f11a0b422d86354c34782ed2bc:82aef319b4cfc71fd48cdd495ee79786
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="SSCExtra3HD.sa" tvg-shift="3" tvg-name="SSC Extra 3 HD" tvg-logo="https://i.imgur.com/qfpSgYN.png" group-title="SPORT",SSC Extra 3 HD
+https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-shift="3" tvg-name="SSC 1 HD" tvg-logo="https://i.imgur.com/9vcmZpX.png" group-title="SPORT",SSC 1 HD
+https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8763ccad3d146c2b15f8a77a4d6d733:ab87f6ae46b2dc187bd94cbb48cfe074
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="SSC2HD.sa" tvg-shift="3" tvg-name="SSC2 HD" tvg-logo="https://i.imgur.com/fTfwMP4.png" group-title="SPORT",SSC 2 HD
+https://ssc-2-on-prem-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3af2aa1da4a41cbb37b1dbe43b46782:b6b74f29f6d1501b989c96aec4dae599
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="SSC3HD.sa" tvg-shift="3" tvg-name="SSC3 HD" tvg-logo="https://i.imgur.com/j1g7QP4.png" group-title="SPORT",SSC 3 HD
+https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c506baa39a74674874ae2ab8bbc792f:1fa11c606eea3ba805f3d2efa537b1fa
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="SSC4HD.sa" tvg-shift="3" tvg-name="SSC 4 HD" tvg-logo="https://i.imgur.com/uIinMop.png" group-title="SPORT",SSC 4 HD
+https://ssc-4-on-prem-ak.akamaized.net/out/v1/3e442c7dad1b44b6a0914aa26b62a892/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=150150f30a8140a2bfda5d1b3fbb2d4b:dad19250368b129f003817b778d65dae
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="SSC5HD.sa" tvg-shift="3" tvg-name="SSC5 HD" tvg-logo="https://i.imgur.com/5lI6sCM.png" group-title="SPORT",SSC 5 HD
+https://ssc-5-on-prem-cw-ak.akamaized.net/out/v1/ee54cd9a3f844ceb8249f430733f9c00/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6df0fb73048c4119bf0ac5634f71b6b6:1517deb7cf9ab678274523e14fffe1ac
+#EXTINF:-1 tvg-id="SSCNews.sa" tvg-shift="3" tvg-name="SSC News" tvg-logo="https://i.imgur.com/YDNiZhE.png" group-title="SPORT",SSC News
+https://ssc-news-on-prem-ak.akamaized.net/out/v1/f2c4d3235fc24094a27c2d07ecb3069d/index.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
+#EXTINF:-1 tvg-id="ADSportsPremium1.ae" tvg-shift="3" tvg-name="AD Sports Premium 1" tvg-logo="https://i.imgur.com/VG1KtCW.png" group-title="SPORT",AD Sports Premium 1
+https://sps1.starzplayarabia.com/out/v1/56d8b44c7b9a4eaeae45bd9f5f509af5/index.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
+#EXTINF:-1 tvg-id="ADSportsPremium2.ae" tvg-shift="3" tvg-name="AD Sports Premium 2" tvg-logo="https://i.imgur.com/iP391jz.png" group-title="SPORT",AD Sports Premium 2
+https://sps2.starzplayarabia.com/out/v1/af6e929916584ab0823af2a08dddc090/index.mpd
+#EXTINF:-1 tvg-id="ADSports1.ae" tvg-shift="3" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/6509506343.jpg" group-title="SPORT",Abu Dhabi SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ADSports2.ae" tvg-shift="3" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/650950b4e7.jpg" group-title="SPORT",Abu Dhabi SPORTS 2
+https://admdn5.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlkassOneHD.qa" tvg-shift="3" tvg-name="Alkass One HD" tvg-logo="https://i.imgur.com/GA687x7.png" group-title="SPORT",Alkass One HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1laq2ab/master.m3u8
+#EXTINF:-1 tvg-id="AlkassTowHD.qa" tvg-shift="3" tvg-name="Alkass Tow HD" tvg-logo="https://i.imgur.com/VLfLSHJ.png" group-title="SPORT",Alkass Tow HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2laqc/master.m3u8
+#EXTINF:-1 tvg-id="AlkassThreeHD.qa" tvg-shift="3" tvg-name="Alkass Three HD" tvg-logo="https://i.imgur.com/hRHyNPs.png" group-title="SPORT",Alkass Three HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3laqahgy/master.m3u8
+#EXTINF:-1 tvg-id="AlkassFourHD.qa" tvg-shift="3" tvg-name="Alkass Three HD" tvg-logo="https://i.imgur.com/yG7dQ0v.png" group-title="SPORT",Alkass Four HD
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkassFiveHD.qa" tvg-shift="3" tvg-name="Alkass Three HD" tvg-logo="https://i.imgur.com/akocCgv.png" group-title="SPORT",Alkass Five HD
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="SPORT",KSA SPORTS 1  
+https://edge.taghtia.com/sa/9.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8ULLqg.png" group-title="SPORT",KSA SPORTS 2  
+https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="SPORT",KSA SPORTS 3  
+https://edge.taghtia.com/sa/16.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="DAZN1.uk" tvg-shift="3" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/m318vTP.png" group-title="SPORT",DAZN 1
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-045/stream.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="DAZN2.uk" tvg-shift="3" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/XFaBYmu.png" group-title="SPORT",DAZN 2
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/3/31/%D8%A3%D9%83%D8%B4%D9%86_%D9%85%D8%B9_%D9%88%D9%84%D9%8A%D8%AF.png" group-title="SPORT",ActionWaleed_11:30KSA
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-shift="3" tvg-name="Alarabiya" tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="قنوات عربية",Alarabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f439b860e7009236e78cb4b22709b790:a39492494643ff79eff74edf1e4c4e44
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mewryoi.png" group-title="قنوات عربية",Sky News Arabia
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Sky_News_Arabia_HD/DASH/Sky_News_Arabia_HD.mpd
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-shift="3" tvg-name="MBC 1" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="قنوات عربية",MBC 1
+https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="MBCACTION.ae" tvg-shift="3" tvg-name="MBC ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/mbc-action-ae.png" group-title="قنوات عربية",MBC ACTION (1080p)
+http://154.58.202.18:8080/mbc2/index.m3u8
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-shift="3" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="قنوات عربية",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="MBC4.ae" tvg-shift="3" tvg-name="MBC 4" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="قنوات عربية",MBC 4
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-shift="3" tvg-name="MBC 5" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="قنوات عربية",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr.ae" tvg-shift="3" tvg-name="MBC Masr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/mbc-maser-ae.png" group-title="قنوات عربية",MBC Masr
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr2.ae" tvg-shift="3" tvg-name="MBC Masr2" tvg-logo="https://i.imgur.com/BPufUAp.png" group-title="قنوات عربية",MBC Masr2
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-shift="3" tvg-name="MBC Drama" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="قنوات عربية",MBC Drama
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-shift="3" tvg-name="MBC+ Drama" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="قنوات عربية",MBC+ Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="MBCpluseLife.ae" tvg-shift="3" tvg-name="MBC+ eLife HD" tvg-logo="https://i.imgur.com/E1iDdKm.png" group-title="قنوات عربية",MBC+ eLife HD
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd
+#EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-shift="3" tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="قنوات عربية",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="MBCIraq.ae" tvg-shift="3" tvg-name="MBC Iraq" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="قنوات عربية",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="MBCPersia.ae" tvg-shift="3" tvg-name="MBC Persia" tvg-logo="https://i.imgur.com/4FXiyjn.png" group-title="قنوات عربية",MBC Persia
+https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-id="Wanasah.ae" tvg-shift="3" tvg-name="Wanasah" tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="قنوات عربية",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 tvg-id="MBCFM.ae" tvg-shift="3" tvg-name="MBC FM" tvg-logo="https://i.imgur.com/lF8UxvR.png" group-title="قنوات عربية",MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 tvg-id="PanoramaFM.ae" tvg-shift="3" tvg-name="Panorama FM" tvg-logo="https://i.imgur.com/Cd32qqw.png" group-title="قنوات عربية",Panorama FM
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-shift="3" tvg-name="Rotana Cinema KSA" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="قنوات عربية",Rotana Cinema KSA
+https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaEGY.egy" tvg-shift="3" tvg-name="Rotana Cinema EGY" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="قنوات عربية",Rotana Cinema EGY
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-shift="3" tvg-name="Rotana Classic" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="قنوات عربية",Rotana Classic
+https://rotanaclassic-prod-dub-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+#EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-shift="3" tvg-name="Rotana Comedy" tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="قنوات عربية",Rotana Comedy 
+https://daiconnect.com/live/hls/rotana/comedy/.m3u8
+#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-shift="3" tvg-name="Rotana Drama" tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="قنوات عربية",Rotana Drama 
+https://daiconnect.com/live/hls/rotana/drama/.m3u8
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-shift="3" tvg-name="Rotana Khalijia" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="قنوات عربية",Rotana Khalijia 
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:-1 tvg-id="RotanaKids.sa" tvg-shift="3" tvg-name="Rotana Kids" tvg-logo="https://i.imgur.com/YQKf0tq.png" group-title="قنوات عربية",Rotana Kids 
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1 tvg-id="RotanaPlusHD.sa" tvg-shift="3" tvg-name="Rotana+ HD" tvg-logo="https://i.imgur.com/b1piasb.png" group-title="قنوات عربية",Rotana+ HD
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=160226ae0237bf9e47042be468cff4fa:d4cce02866b7107d8afbe988871f77ac
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="majidtv.ae" tvg-shift="3" tvg-name="MAJID TV" tvg-logo="https://i.imgur.com/jDqyTP1.png" group-title="قنوات عربية",MAJID TV
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Majid_Kids_TV_HD/DASH/Majid_Kids_TV_HD.mpd
+#EXTINF:-1 tvg-id="AlHadath.sa" tvg-shift="3" tvg-name="الحدث" tvg-logo="https://i.imgur.com/hoLt4JW.png" group-title="قنوات عربية",AlHadath
+https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 tvg-id="Alikhbariya.sa" tvg-shift="3" tvg-name="الإخبارية" tvg-logo="https://i.imgur.com/WcRlHQm.png" group-title="قنوات عربية",Al Ekhbariya
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-shift="3" tvg-name="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="قنوات عربية",Al Saudiya 
+https://edge.taghtia.com/sa/2.m3u8
+#EXTINF:-1 tvg-id="KSANow.sa" tvg-shift="3" tvg-name="السعودية الآن" tvg-logo="https://aloula.faulio.com/storage/mediagallery/47/4f/small_64167a679b7b2b43aa0e9549a920b50dc01cd531.png" group-title="قنوات عربية",Al Saudiya Alaan
+https://edge.taghtia.com/sa/17.m3u8
+#EXTINF:-1 tvg-id="SBC.sa" tvg-shift="3" tvg-name="SBC" tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="قنوات عربية",SBC  
+https://edge.taghtia.com/sa/1.m3u8
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/6509580a26.jpg" group-title="قنوات عربية",Abu Dhabi TV
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/6509586b42.jpg" group-title="قنوات عربية",AL Emarat TV
+https://admdn3ta.cdn.mgmlcdn.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-shift="3" tvg-name="Al Quran Al Kareem TV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="قنوات عربية",Al Quran Al Kareem TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-shift="3" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="قنوات عربية",Al Sunnah Al Nabawiyah TV
+https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/laEk64E.png" group-title="قنوات عربية",Nidae AlIslam Radio 
+https://edge.taghtia.com/sa/14.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q3d7G04.png" group-title="قنوات عربية",Jeddah Radio 
+https://edge.taghtia.com/sa/15.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CvrR7wW.png" group-title="قنوات عربية",Saudia Radio 
+https://edge.taghtia.com/sa/11.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ut0kr4x.png" group-title="قنوات عربية",Quran Radio 
+https://edge.taghtia.com/sa/13.m3u8
+#EXTINF:-1 tvg-id="AlThaqafeya.sa" tvg-shift="3" tvg-logo="https://i.imgur.com/HYVR1mA.png" group-title="قنوات عربية",الثقافية
+https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
+#EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-shift="3" tvg-name="Thikrayat TV" tvg-logo="https://i.imgur.com/AKa1X9d.png" group-title="قنوات عربية",ذكريات
+https://edge.taghtia.com/sa/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="قنوات عربية",Alaraby TV 
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8tqK42D.png" group-title="قنوات عربية",Asharq Documentary 
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="قنوات عربية",Asharq News 
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2BqP9m.png" group-title="قنوات عربية",Atfal & Mawaheb TV 
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="قنوات عربية",BBC Arabic 
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" group-title="قنوات عربية",Cartoon Network Arabia 
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/Gulli_bill_arabi_thumb_chanel/original/Gulli_bill_arabi_thumb_chanel.jpg?width=297&version=1&type=webp" group-title="قنوات عربية",GULLI BIL  ARABI
+https://gulli-bil-arabi-prod-dub-ak.akamaized.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="قنوات عربية",CGTN Arabic  
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dj16oKL.png" group-title="قنوات عربية",Dubai One 
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kd80BpV.png" group-title="قنوات عربية",Duhk Wa Bas 
+https://daiconnect.com/live/hls/rotana/dwbass/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="قنوات عربية",DW Arabic 
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mkzRTuE.png" group-title="قنوات عربية",Kaif TV  
+http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="قنوات عربية",LBC  
+https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="قنوات عربية",National Geographic Abu Dhabi 
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="قنوات عربية",PMC 
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="قنوات عربية",PMC Royale  
+https://rohls.pmc.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="قنوات عربية",RT Arabic  
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="قنوات عربية",Sky News Arabia  
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png" group-title="قنوات عربية",Al jazeera
+https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcYuyUz.png" group-title="قنوات عربية",Sydat Elshasha 
+https://daiconnect.com/live/hls/rotana/selshasha/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="قنوات عربية",TRT Arabi  
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-shift="3" tvg-name="Spacetoon Arabic" tvg-logo="https://i.imgur.com/rd8LOkZ.png" group-title="قنوات عربية",Spacetoon Arabic
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-id="AflamComedy.ae" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Aflam_Comedy/original/thump_Aflam_Comedy.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",افلام كوميدي
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Aflam_Comedy/index_hls.m3u8
+#EXTINF:-1 tvg-id="Aflam.sa" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Aflam/original/thump_Aflam.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",أفلام
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+#EXTINF:-1 tvg-id="MoviesAction.sa" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Hanin/Aug/thump_Action/original/thump_Action.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",Movies Action
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 tvg-id="MoviesThriller.sa" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_movies_thriller/original/thump_movies_thriller.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",Movies Thriller
+https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1 tvg-id="Movies.sa" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_movies/original/thump_movies.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",Movies
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+#EXTINF:-1 tvg-id="FeelGoodMovies.sa" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Bedour3/thump_Feel_Good_Movies/original/thump_Feel_Good_Movies.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",Feel Good Movies
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Feel_Good_Movies/index_hls.m3u8
+#EXTINF:-1 tvg-id="MasrahMasr.egy" tvg-shift="3" tvg-name="قناة مسرح مصر" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Masrah_masr/original/thump_Masrah_masr.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",مسرح مصر
+https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
+#EXTINF:-1 tvg-id="TashMatash.sa" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Tash/original/thump_Tash.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",طاش ماطاش
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Tash_Matash_/index_hls.m3u8
+#EXTINF:-1 tvg-id="BabAlHara.ae" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Bab_Al_Hara/original/thump_Bab_Al_Hara.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",باب الحارة
+https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
+#EXTINF:-1 tvg-id="AlAsouf.sa" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Al-Asouf/original/thump_Al-Asouf.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",العاصوف
+https://shls-live-ak.akamaized.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index.m3u8
+#EXTINF:-1 tvg-id="Maraya.ae" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Maraya/original/thump_Maraya.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",مرايا
+https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
+#EXTINF:-1 tvg-id="ElKebeerAwi.ae" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Al-Kabeer/original/thump_Al-Kabeer.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",الكبير أوي
+https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index.m3u8
+#EXTINF:-1 tvg-id="TopChefChannel.sa" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/top_chef_thump_with_logo/original/top_chef_thump_with_logo.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",Top Chef
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Top-Chef/index_hls.m3u8
+#EXTINF:-1 tvg-id="WWE.uk" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_wwe/original/thump_wwe.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",مصارعة
+https://mbcvod-enc.edgenextcdn.net/v1/channel/WWE/index_hls.m3u8
+#EXTINF:-1 tvg-id="AsliWaHasry.ae" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_asli_w_hasri/original/thump_asli_w_hasri.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",اصلي و حصري
+https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
+#EXTINF:-1 tvg-id="AlMeerath.ae" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thamp_almerath/original/thamp_almerath.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",الميراث
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Al_Meerath/index_hls.m3u8
+#EXTINF:-1 tvg-id="AlLeabaChannel.ae" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_El-Le-ba/original/thump_El-Le-ba.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",اللعبة
+https://shls-live-ak.akamaized.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index.m3u8
+#EXTINF:-1 tvg-id="ThePit.ae" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_alhofra/original/thump_alhofra.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",الحفرة
+https://shls-live-ak.akamaized.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8
+#EXTINF:-1 tvg-id="Stiletto.ae" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Stiletto/original/thump_Stiletto.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",ستيلتو
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Stiletto/index_hls.m3u8
+#EXTINF:-1 tvg-id="AdelEmam.ae" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/bedour2/thump_adel_emam/original/thump_adel_emam.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",عادل إمام
+https://mbcvod-enc.edgenextcdn.net/v1/channel/AlZaeem--/index_hls.m3u8
+#EXTINF:-1 tvg-id="AlMasrah.ae" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_almasrah/original/thump_almasrah.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",المسرح
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Al_Masrah/index_hls.m3u8
+#EXTINF:-1 tvg-id="MohamedRamadan.ae" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/bedour2/thump_mohamme_ramdan/original/thump_mohamme_ramdan.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",محمد رمضان
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Al_Ostoura_/index_hls.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ae" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Bedour3/thump_Nature_time/original/thump_Nature_time.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",حياة البرية
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-id="FashionTV.ae" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Amjad/Aug/Thump_Fashion-TV/original/Thump_Fashion-TV.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",Fashion TV
+https://mbc1-enc.edgenextcdn.net/out/v1/61474465407042c896d3d27685175891/index.m3u8
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Top-Gear/original/thump_Top-Gear.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",Top Gear
+https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
+#EXTINF:-1 tvg-id="CrimePlus.uk" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Crime-/original/thump_Crime-.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",Crime+
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Crime/index_hls.m3u8
+#EXTINF:-1 tvg-id="Ramez.ae" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_ramez/original/thump_ramez.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",رامز
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Ramez/index_hls.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68dde26060804003bd7c7262a3b188fa:6c14827e94adba80af1c4e5354c6a741
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Ramadan/Thump_Slave_market_AR/original/Thump_Slave_market_AR.jpg" group-title="مسلسلات شاهد",دكة العبيد S01 E01
+https://mbcvod-enc.edgenextcdn.net/out/v1/e8ab923c07c44fe3943eef7ffce8e278/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e02faf2a75f44908757b4f11840f1f5:0f6de0faf0983c784fd8ee7bbdb99621
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Ramadan/Thump_Slave_market_AR/original/Thump_Slave_market_AR.jpg" group-title="مسلسلات شاهد",دكة العبيد S01 E02
+https://mbcvod-enc.edgenextcdn.net/out/v1/8391dc66b7cc4cee9e03c3e5061269ea/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbd36e8a23604c64a071e60b3965551d:af8acebe6c292b0d41cb3862ecdcb6e3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Ramadan/Thump_Slave_market_AR/original/Thump_Slave_market_AR.jpg" group-title="مسلسلات شاهد",دكة العبيد S01 E03
+https://mbcvod-enc.edgenextcdn.net/out/v1/e59599962e0f4b0e8235c35f0a80cf74/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4af33a4d22e74ae58ab8ecb791acb122:e774d1779659dc8c1d823357317e5baa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Ramadan/Thump_Slave_market_AR/original/Thump_Slave_market_AR.jpg" group-title="مسلسلات شاهد",دكة العبيد S01 E04	
+https://mbcvod-enc.edgenextcdn.net/out/v1/4f2bf7e7731748e78731526ab4da2015/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f26c747b8184880a90ad0ee3af8f9a5:7cf6c9a5fd484b7d691b3c9974fa4aeb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Ramadan/Thump_Slave_market_AR/original/Thump_Slave_market_AR.jpg" group-title="مسلسلات شاهد",دكة العبيد S01 E05
+https://mbcvod-enc.edgenextcdn.net/out/v1/0009d25b47bf4afb8d35923da423a519/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=28d051b4645c43b39a235c975217fae6:5498bd38b7093ec0783268d4b61979c6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Ramadan/Thump_Slave_market_AR/original/Thump_Slave_market_AR.jpg" group-title="مسلسلات شاهد",دكة العبيد  S01 E06
+https://mbcvod-enc.edgenextcdn.net/out/v1/717e0f31829f46fa93156a0986366654/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6eef3ff40b84430ab9267cb1a530cea:62abc540c76b6155e3b0f7a9c41e23f3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Ramadan/Thump_Slave_market_AR/original/Thump_Slave_market_AR.jpg" group-title="مسلسلات شاهد",دكة العبيد S01 E07
+https://mbcvod-enc.edgenextcdn.net/out/v1/97e7723e1dba4c22a9d4d70d92d9b759/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b34c6cab339445b9948f22a417256c41:e3628fcd91a70bb90991bab168444ea2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Ramadan/Thump_Slave_market_AR/original/Thump_Slave_market_AR.jpg" group-title="مسلسلات شاهد",دكة العبيد S01 E08
+https://mbcvod-enc.edgenextcdn.net/out/v1/f5ea91050aa94e1fa4fa18cff5a19095/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10fa116ea50a468a967a7abe7f21b1fe:e6e3275f3e9aae8f3a00c84e501a8751
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Ramadan/Thump_Slave_market_AR/original/Thump_Slave_market_AR.jpg" group-title="مسلسلات شاهد",دكة العبيد S01 E09
+https://mbcvod-enc.edgenextcdn.net/out/v1/1dbfa37d7b664133b6f145d07da82ba0/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
