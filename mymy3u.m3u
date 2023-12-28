@@ -250,6 +250,8 @@ https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 #EXTINF:-1 tvg-id="FeelGoodMovies.sa" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Bedour3/thump_Feel_Good_Movies/original/thump_Feel_Good_Movies.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",Feel Good Movies
 https://mbcvod-enc.edgenextcdn.net/v1/channel/Feel_Good_Movies/index_hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tjIKs3q.png" group-title="قنوات شاهد",اطفال
+https://shls-live-ak.akamaized.net/out/v1/e09d6e88de95452fa5566a839ca5ed5c/index.m3u8
 #EXTINF:-1 tvg-id="MasrahMasr.egy" tvg-shift="3" tvg-name="قناة مسرح مصر" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Masrah_masr/original/thump_Masrah_masr.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",مسرح مصر
 https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8
 #EXTINF:-1 tvg-id="TashMatash.sa" tvg-shift="3" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Tash/original/thump_Tash.jpg?width=297&version=1&type=webp" group-title="قنوات شاهد",طاش ماطاش
