@@ -150,8 +150,6 @@ https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e9110
 https://rotanaclassic-prod-dub-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
 #EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-shift="3" tvg-name="Rotana Comedy" tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="قنوات عربية",Rotana Comedy 
 https://daiconnect.com/live/hls/rotana/comedy/.m3u8
-#EXTINF:-1 tvg-name="Rotana Clip" tvg-logo="https://i.imgur.com/49NB4ZU.png" group-title="قنوات عربية",Rotana Clip
-https://hiplayer.hibridcdn.net/p/rotana-clip/.m3u8
 #EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-shift="3" tvg-name="Rotana Drama" tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="قنوات عربية",Rotana Drama 
 https://daiconnect.com/live/hls/rotana/drama/.m3u8
 #EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-shift="3" tvg-name="Rotana Khalijia" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="قنوات عربية",Rotana Khalijia 
