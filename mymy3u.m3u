@@ -67,15 +67,15 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 #EXTINF:-1 tvg-id="ADSports2.ae" tvg-shift="3" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/650950b4e7.jpg" group-title="SPORT",Abu Dhabi SPORTS 2
 https://admdn5.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlkassOneHD.qa" tvg-shift="3" tvg-name="Alkass One HD" tvg-logo="https://i.imgur.com/GA687x7.png" group-title="SPORT",Alkass One HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1laq2ab/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtgb/master.m3u8
 #EXTINF:-1 tvg-id="AlkassTowHD.qa" tvg-shift="3" tvg-name="Alkass Tow HD" tvg-logo="https://i.imgur.com/VLfLSHJ.png" group-title="SPORT",Alkass Tow HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2laqc/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uyce/master.m3u8
 #EXTINF:-1 tvg-id="AlkassThreeHD.qa" tvg-shift="3" tvg-name="Alkass Three HD" tvg-logo="https://i.imgur.com/hRHyNPs.png" group-title="SPORT",Alkass Three HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3laqahgy/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavya/master.m3u8
 #EXTINF:-1 tvg-id="AlkassFourHD.qa" tvg-shift="3" tvg-name="Alkass Three HD" tvg-logo="https://i.imgur.com/yG7dQ0v.png" group-title="SPORT",Alkass Four HD
-https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/playlist.m3u8
+https://liveak.alkassdigital.net/livehttporigin/smil:Alkass4dfghjkjhb.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkassFiveHD.qa" tvg-shift="3" tvg-name="Alkass Three HD" tvg-logo="https://i.imgur.com/akocCgv.png" group-title="SPORT",Alkass Five HD
-https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/playlist.m3u8
+https://liveak.alkassdigital.net/livehttporigin/smil:Alkass5a.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="SPORT",KSA SPORTS 1  
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v8ULLqg.png" group-title="SPORT",KSA SPORTS 2  
