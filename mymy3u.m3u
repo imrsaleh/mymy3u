@@ -254,7 +254,7 @@ https://cmaxlive.starzplayarabia.com/out/v1/bebec73ea17b40b3bd0257ad8e97b531/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4080954e835e8d3d1b6af8151b1c6314:8a6d2f9de5a561f4e1be424aae428c25
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c1zlzcn.png" group-title="قنوات عربية",CNBC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c1zlzcn.png" group-title="قنوات عربية",CNBC Arabiya
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CNBC_Arabiya_HD/DASH/CNBC_Arabiya_HD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bcYuyUz.png" group-title="قنوات عربية",Sydat Elshasha 
 https://daiconnect.com/live/hls/rotana/selshasha/.m3u8
