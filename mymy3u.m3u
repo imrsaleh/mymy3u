@@ -232,6 +232,24 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/288px-Aljazeera.svg.png" group-title="قنوات عربية",Al jazeera
 https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a05a54bf469c6040a288477d0082ca65:4344373c32a573e73a42eeab936a98a9
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WDFmm6k.png" group-title="قنوات عربية",CricLife 1
+https://criclive1.starzplayarabia.com/out/v1/1adbc63744e44594a273eb48ec027b65/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf671610fa53cc56b07b1d235169fc81:50ac62719a1205fd08c01e368e27e3d4
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7WTztSz.png" group-title="قنوات عربية",CricLife 2
+https://criclive2.starzplayarabia.com/out/v1/1b232653e5254150a60a577cc8db682f/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4080954e835e8d3d1b6af8151b1c6314:8a6d2f9de5a561f4e1be424aae428c25
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c1zlzcn.png" group-title="قنوات عربية",CNBC
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CNBC_Arabiya_HD/DASH/CNBC_Arabiya_HD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bcYuyUz.png" group-title="قنوات عربية",Sydat Elshasha 
 https://daiconnect.com/live/hls/rotana/selshasha/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="قنوات عربية",TRT Arabi  
