@@ -246,6 +246,12 @@ https://criclive1.starzplayarabia.com/out/v1/1adbc63744e44594a273eb48ec027b65/in
 https://criclive2.starzplayarabia.com/out/v1/1b232653e5254150a60a577cc8db682f/index.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec2168a420478062ec89540dad862bdd:d6d63d7a1391d2a89fb12e5e1c5ced01
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rDxJuhv.png" group-title="قنوات عربية",CricLife 3
+https://cmaxlive.starzplayarabia.com/out/v1/bebec73ea17b40b3bd0257ad8e97b531/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4080954e835e8d3d1b6af8151b1c6314:8a6d2f9de5a561f4e1be424aae428c25
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c1zlzcn.png" group-title="قنوات عربية",CNBC
