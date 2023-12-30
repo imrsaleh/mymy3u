@@ -1,0 +1,392 @@
+#EXTM3U
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=018861948602468a9a5be703260b5a58:b1b52da8f3ee28aed1140e1d53a695a5
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول",اسرار البيوت 1
+https://mbcvod-enc.edgenextcdn.net/out/v1/6eb5e5c636bd44fe813570a4d1a2eeef/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0fd84a04d16147fcb9d262ff4bc2383e:a457cd7f353e39c2c55ba29564eca946
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 2
+https://mbcvod-enc.edgenextcdn.net/out/v1/7e9b5b2f38ff4d459731172a4583c70a/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe5ac5b4db01456089af191b04626ddf:c5f21ed5626892ffb8a3342b670eae47
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 3
+https://mbcvod-enc.edgenextcdn.net/out/v1/3160afeef1c64219ac4f1038aecbbceb/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49405e124d204ff38ee66b6831ad2264:e2d5d6cb8b601e8c34a054cc009a866a
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 4
+https://mbcvod-enc.edgenextcdn.net/out/v1/6083e0f90ffb4fd09531541344523a6e/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2226530fabc34793af2aece8ea20839b:e84ae43daa7f9f3393e5dbcb5485fc38
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول",اسرار البيوت 5
+https://mbcvod-enc.edgenextcdn.net/out/v1/2bd4bfb76a964b5ca2a4c7c1870a2539/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17521dc443fc45cc92bca3bf4bbd356a:e4ea9ee69551bf7047966552cc2f1872
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 6
+https://mbcvod-enc.edgenextcdn.net/out/v1/737608b6274a48629d4cdf7bf0503869/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8308b5efb74142a5898d2bd8abb6b751:bfa5d999a46f18eb61ebc5e971aa4813
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 7
+https://mbcvod-enc.edgenextcdn.net/out/v1/66dc1e53a7b243a7971af428e6db1371/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a02d3460e8645309887291baf2f2e0e:1cfc85c0cb2730ab643511d37cc3ebe2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 8
+https://mbcvod-enc.edgenextcdn.net/out/v1/b7478dcd301940cdaf8a94f02492afd6/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c435cc471a284359a4c4190bb6e82718:f4874bad80eabcfc76f4a5a00cfadfe0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 9
+https://mbcvod-enc.edgenextcdn.net/out/v1/f1e4768739c94836987848189e662eb4/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=779368c734784682a3df4558a327cf82:1324278ac2d76733c7cbbf8572353932
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 10
+https://mbcvod-enc.edgenextcdn.net/out/v1/6161fec5e35a48e29814d297a2fa8556/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a337c59c488415a80c0c777d56bf085:c3ec45d49b0f3c2174993281d7308b2a
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 11
+https://mbcvod-enc.edgenextcdn.net/out/v1/54fde966cbd5485faa8f463a8c83346c/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33f8c167731844b6bc8d1d741acc0322:9e343b919026e2e19636b52e9a5d3e5f
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 12
+https://mbcvod-enc.edgenextcdn.net/out/v1/16d63e9575734c8894a677b527cdfc6a/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=162ca9f1e4a048588d78910f73742cdd:16e91bb86bb1b2762b15b9810aba8241
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 13
+https://mbcvod-enc.edgenextcdn.net/out/v1/0eed0372d3a84e4d9b4a9f19fb0ab0d9/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8e8e427c463478680311556edb05e1b:f085a32a05154fd814e75bec7cfa7479
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 14
+https://mbcvod-enc.edgenextcdn.net/out/v1/966db1af56ce4e6bac1387e37cef3224/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9d5ee67a35d4876ae007a1f3ac1a146:08d02610368df6bda3102a3b60cf5303
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 15
+https://mbcvod-enc.edgenextcdn.net/out/v1/f512c368ea4a48c5bff299a97303e4f7/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e808ea67f1c8482fa4a5b8a06d012a53:1a7691409ee693927448eeee7689e1a4
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 16
+https://mbcvod-enc.edgenextcdn.net/out/v1/b1453a3a5b204ba5a2d9514e97f89997/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cef22dd6c824bfabf7ad146f75df909:e04f16263a621eb3105281d8ea295317
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 17
+https://mbcvod-enc.edgenextcdn.net/out/v1/8039a7163c394fdeb3690c56e738eab9/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d488b8b61949461095b77f1682b22da6:827d4f7802ed3531a044462b2f443514
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 18
+https://mbcvod-enc.edgenextcdn.net/out/v1/47d3fbb75d7d4d37aa8d75e31f56cc5a/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d626c12692a4b659dae8614f210d7d4:397a7aebebeea4b8bead6f1428cf0845
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 19
+https://mbcvod-enc.edgenextcdn.net/out/v1/de290f097d924c6eb90547f7a840188a/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ab0a557cfed494b9502b4d33fd9d507:4a4963aff39c4b41c840184d918822a3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 20
+https://mbcvod-enc.edgenextcdn.net/out/v1/40fe81dcc59546d9a3478bd1e257f452/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c40976c526cb45a1b158b1e20d478e67:ec0461148d820863a7e9d03e6c19b84d
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 21
+https://mbcvod-enc.edgenextcdn.net/out/v1/b862da1393754a7282607e60b6ce9648/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8ba5e3e68cb4258a8de0a80463bdc7b:4911565972d0656c678a737c9a793765
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 22
+https://mbcvod-enc.edgenextcdn.net/out/v1/26777ed19c8549e38fa5e7d069831c33/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf1912f130824d87ae692f9c18864255:ee3ee381cd6f47da110c99f3e8fb7387
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 23
+https://mbcvod-enc.edgenextcdn.net/out/v1/833523b34f7a4ee68479bbdbd2849e32/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24e8595071a04e13ab985e5320f01a18:6305868f9d0145de5b54c1bc025714e4
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 24
+https://mbcvod-enc.edgenextcdn.net/out/v1/46d47c400da348f4973d034be9f84a38/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=104ecc57e2d743e39451519b55ecf8cd:c30e66efccc9fc13382b78e4e24534eb
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 25
+https://mbcvod-enc.edgenextcdn.net/out/v1/2b37704b6aed42d797bc13f44e06ee2a/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5829eb170f24eee8218e3e8a670dc1c:9b012b884f6fe6502b98953eebab9d3a
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 26
+https://mbcvod-enc.edgenextcdn.net/out/v1/803b4b364e8544619b03671e012a4e67/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e503a75785b43f3ae0fc0a76b6752e3:41d596b691d1e8475e47cfeb60b825a5
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 27
+https://mbcvod-enc.edgenextcdn.net/out/v1/9f54c2c01e034f648697ead0a6d2440d/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=15707ce8d1ca492e9ff074724b89b043:221356773c7c2c9e7ee2385c39d4e070
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 28
+https://mbcvod-enc.edgenextcdn.net/out/v1/7d7d9f5f440f412085dd62fed702cbd9/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a75a98d353ea4f498dc48b65720bd73d:6aebc941c4f8cae62840634e2a74ef72
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 29
+https://mbcvod-enc.edgenextcdn.net/out/v1/3dd167987bab45c9b9809b3124422cf4/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ff168093e12464b92c16f1754dc7532:947ec344a619f119e2ee2533234edcba
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 30
+https://mbcvod-enc.edgenextcdn.net/out/v1/98f6afa61d964d41a052227e793ef57b/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17323f9896c14c0ebdae64a3b1a6b5b2:49d393f72959ba08e75f5cdbaddb01e3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 31
+https://mbcvod-enc.edgenextcdn.net/out/v1/3e4da20bda474c1aba3cb4a6144c45f1/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bf0fe7cbcfe4c57b29131356bcb59d3:4fb63e925cedca00157f5647e803b85d
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 32
+https://mbcvod-enc.edgenextcdn.net/out/v1/7f521d4d4e6540789cb71413fa50a1fb/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08095cfa7f334e9b84c1d3f75187e5a2:86bea08318b58bed545739f1051a08b7
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 33
+https://mbcvod-enc.edgenextcdn.net/out/v1/f86e956aa2a5402ea601b2eddef57265/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84d07368ac7a46758698f1eb14424f2a:c6fc63da8f23ec41c56e17346394da2b
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 34
+https://mbcvod-enc.edgenextcdn.net/out/v1/bf038d4a1f714846bf736257bc8a476e/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94e70bb7010b47908877037d17069d91:8d6d0f9c79e143247ed6f0c64069a5b4
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 35
+https://mbcvod-enc.edgenextcdn.net/out/v1/e8ebbb32ac7e49b3ba6a9387dabf456a/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d745449172e496e8d3385d082b4d8fb:23ba3f009f6d5ae1ebbccf79df481aa2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 36
+https://mbcvod-enc.edgenextcdn.net/out/v1/f2f88025bee84120a0ec712950aab547/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdf22fea747d4dddb0859bd0e534306a:488dc5c20e97ad9c258306a1f2962c07
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 37
+https://mbcvod-enc.edgenextcdn.net/out/v1/121d5d37f5d343e28b11bf5cc68569a7/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f4b5266fd5645a28e44e27382366094:61c04a51ed4b5fb818bdcfad560f4f58
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 38
+https://mbcvod-enc.edgenextcdn.net/out/v1/0441ae8d44c946a897b22bd102a09c88/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77d55d3eabfd4bba8af8743718318d7d:7211611320492e0d1f6ab92f1ca7f766
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 39
+https://mbcvod-enc.edgenextcdn.net/out/v1/1986ede8456c495aa3b501f4f443cfb2/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efa3c39a55d84ba0a3c17bea347d2c16:8e4d5f8be7cead7b0bdfe3ee7f356222
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 40
+https://mbcvod-enc.edgenextcdn.net/out/v1/19a64e7846ab40dd82e9c299bc6572eb/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ddc4a48b5c14573beeb77e14dd8bfe6:1484ef9fad0cbf0997428cbde5ea6f3e
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 41
+https://mbcvod-enc.edgenextcdn.net/out/v1/b4d90b5a7b5c4030b5c5df670347abe1/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5414fb2fa95a419b9c96b5b972288852:d2f3534a0c45b7e339e3d88d363e6bee
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 42
+https://mbcvod-enc.edgenextcdn.net/out/v1/87f504c1f38849368c853a06d9452f4d/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bc1a790982d4b0fa1b4764dddee3c37:859953c411732e703596aa540c08bd73
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 43
+https://mbcvod-enc.edgenextcdn.net/out/v1/62721af72b14482d990b12c42629d154/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=193500154bb5464e837224f775b0ee94:62a81657c79b36672362856a8286e394
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 44
+https://mbcvod-enc.edgenextcdn.net/out/v1/e61836f2f87a45208be2cf08bac18293/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68a331dfde50431685c9a4d24f5a4be1:7e31ad2c7db90cedb443eec5538e6f46
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 45
+https://mbcvod-enc.edgenextcdn.net/out/v1/42b3a3e1b6cc4d30a98b0d15ddba102d/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=093670ead9dc4452b36516d9b06b3217:b76ca33b78c56b3bd7b4760c3f22c82f
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 46
+https://mbcvod-enc.edgenextcdn.net/out/v1/9546320a0b3e4898950f42b88dc28400/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce23a53fd7924af88e9a6a58aa4a1215:0a8b261a7937e0706840b38ebf3e65d2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 47
+https://mbcvod-enc.edgenextcdn.net/out/v1/ad684744ccad4851abbb0b668bda2a44/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b0fac7cf1bd48f29d7182515edc6a6e:491bc804d62ba6fb137bd632954d83d2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 48
+https://mbcvod-enc.edgenextcdn.net/out/v1/f10e8473c4d149fe9a6d76f402ef689d/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bec8eefc74444e15bdfeaf86670c618a:1984db34f3a2e86ba869d0e2cdd39f41
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 49
+https://mbcvod-enc.edgenextcdn.net/out/v1/e2d9efe72cb448ae9929cf8a7528ee0e/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec6c352226f248eb851bac7125b38554:123b5415ba0ca1ab418073f7f80b39c5
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 50
+https://mbcvod-enc.edgenextcdn.net/out/v1/2737f79fdfc14f299fc6bf5793a553bb/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe21fd414a6c4b5cb859979fdd9113eb:c2ec518756a37eb05f9707ac3ea0da3b
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 51
+https://mbcvod-enc.edgenextcdn.net/out/v1/d7d637c93e8d41bf9845dad68d88db33/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9ba0a65d219487ea0298baade89d244:7b895b3ebff3b45cbc08e5040aa8a794
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 52
+https://mbcvod-enc.edgenextcdn.net/out/v1/2eac3b5807ed42458a4625cb6f607874/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba98bc5f616f48e9bb655c72d385ae84:04cb198ef8708934617e3e4298073d8d
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 53
+https://mbcvod-enc.edgenextcdn.net/out/v1/2459ad274bc4425894dce6bd3ed40e1e/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a63668c968f44b89f7e961eae112eda:dadd9134a2db0f5d6d30732e2813bff8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 54
+https://mbcvod-enc.edgenextcdn.net/out/v1/065698bec82543f8983b5938074563c3/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=635db195a2a14e7496c957bb86b001b8:f03e8f38be40952f777272993db352fe
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 55
+https://mbcvod-enc.edgenextcdn.net/out/v1/4b8d30ba6dd0444baa7bb791308d69bd/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b22fbf735094734a1d1409bba487bdc:615b4f8ce82f98fbd5148508cd0b8593
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 56
+https://mbcvod-enc.edgenextcdn.net/out/v1/b6a6997807ad42c7a37739ce091adf0a/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbe48b1645824614920cc5ddc259a5a5:6d2e79c0f5f95e5c520f8fd28d2927b9
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 57
+https://mbcvod-enc.edgenextcdn.net/out/v1/51d63c63dac44cd1bc14090c43f590c2/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ccbdc8bc9c242edbd97f910bb4083ea:3854186d0b237d2145e7d049b4feea1b
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 58
+https://mbcvod-enc.edgenextcdn.net/out/v1/a83d41e1d954483e8bceae26b2cefa36/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc0d27e23a40455a80df53e421a57d83:01c05f2d7b18b5156252faadc542e0a2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 59
+https://mbcvod-enc.edgenextcdn.net/out/v1/b1dd1e8594484d3bbb434628b450616d/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c137d37bbb68497e928766b62f526ec9:25ebe81b7015e2e98aa40ee0e6590025
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 60
+https://mbcvod-enc.edgenextcdn.net/out/v1/2fb8f3de58b640d0bd877b9e5d2064f1/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=048c26a0880043048dee859b37f55d7c:f7d91eea3669a001d58a27c4b0ae79b4
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 61
+https://mbcvod-enc.edgenextcdn.net/out/v1/7482018c08e64ddcbb0250a06febcafe/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82935966857e47ebbd1c427dd651f1cf:f8c9f1f883c64732b9b7d15da05addba
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 62
+https://mbcvod-enc.edgenextcdn.net/out/v1/8aefb04918bf4e058c4382ff3f39a64b/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6d68830eab94a9a9cc9f14212a79bc1:7bfecf7e24469f9d9b02f31910ea1719
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 63
+https://mbcvod-enc.edgenextcdn.net/out/v1/92112665eab34b7ca872a9919d70fcf3/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2fa237d7d664254b84dcb481cc659eb:17d29a4e9dd4ce4518ad0764eb068d71
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 64
+https://mbcvod-enc.edgenextcdn.net/out/v1/3eafc42d095e4dc0b11aab720c7b8a22/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e7f8f1b1ac14161b4807c74a4f47768:ac2c8a3bfbd84cee605716d60b278fdd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 65
+https://mbcvod-enc.edgenextcdn.net/out/v1/55a02e97a7d3411db9788eec93c69bc9/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+
