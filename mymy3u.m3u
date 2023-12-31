@@ -164,6 +164,8 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="majidtv.ae" tvg-shift="3" tvg-name="MAJID TV" tvg-logo="https://i.imgur.com/jDqyTP1.png" group-title="قنوات عربية",MAJID TV
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Majid_Kids_TV_HD/DASH/Majid_Kids_TV_HD.mpd
+#EXTINF:-1 tvg-id="Roya.ae" tvg-name="رؤيا" tvg-shift="3" tvg-logo="https://i.imgur.com/7MIooEr.png" group-title="قنوات عربية",رؤيا
+https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8
 #EXTINF:-1 tvg-id="AlHadath.sa" tvg-shift="3" tvg-name="الحدث" tvg-logo="https://i.imgur.com/hoLt4JW.png" group-title="قنوات عربية",AlHadath
 https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 tvg-id="Alikhbariya.sa" tvg-shift="3" tvg-name="الإخبارية" tvg-logo="https://i.imgur.com/WcRlHQm.png" group-title="قنوات عربية",Al Ekhbariya
