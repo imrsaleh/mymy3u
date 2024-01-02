@@ -240,10 +240,12 @@ http://82.212.74.2:8000/live/hls/7311.m3u8
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="قنوات عربية",National Geographic Abu Dhabi 
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="قنوات عربية",PMC 
-https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="قنوات عربية",PMC Royale  
-https://rohls.pmc.live/hls/stream.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd46cc9c33cc2dc621a491c0d4ce9df7:b7811e6115f5df3c4391fe44406471d6
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Tarap.ae" tvg-name="Tarap" tvg-logo="https://i.imgur.com/tT90ag0.png" group-title="قنوات عربية",Tarap
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Tarab/DASH/Tarab.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="قنوات عربية",RT Arabic  
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="قنوات عربية",Sky News Arabia  
