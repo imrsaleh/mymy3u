@@ -65,7 +65,7 @@ https://sps2.starzplayarabia.com/out/v1/af6e929916584ab0823af2a08dddc090/index.m
 #EXTINF:-1 tvg-id="ADSports1.ae" tvg-shift="3" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/6509506343.jpg" group-title="SPORT",Abu Dhabi SPORTS 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
 #EXTINF:-1 tvg-id="ADSports2.ae" tvg-shift="3" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/650950b4e7.jpg" group-title="SPORT",Abu Dhabi SPORTS 2
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
 #EXTINF:-1 tvg-id="AlkassOneHD.qa" tvg-shift="3" tvg-name="Alkass One HD" tvg-logo="https://i.imgur.com/GA687x7.png" group-title="SPORT",Alkass One HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtgb/master.m3u8
 #EXTINF:-1 tvg-id="AlkassTowHD.qa" tvg-shift="3" tvg-name="Alkass Tow HD" tvg-logo="https://i.imgur.com/VLfLSHJ.png" group-title="SPORT",Alkass Tow HD
