@@ -63,9 +63,9 @@ https://sps1.starzplayarabia.com/out/v1/56d8b44c7b9a4eaeae45bd9f5f509af5/index.m
 #EXTINF:-1 tvg-id="ADSportsPremium2.ae" tvg-shift="3" tvg-name="AD Sports Premium 2" tvg-logo="https://i.imgur.com/iP391jz.png" group-title="SPORT",AD Sports Premium 2
 https://sps2.starzplayarabia.com/out/v1/af6e929916584ab0823af2a08dddc090/index.mpd
 #EXTINF:-1 tvg-id="ADSports1.ae" tvg-shift="3" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/6509506343.jpg" group-title="SPORT",Abu Dhabi SPORTS 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
 #EXTINF:-1 tvg-id="ADSports2.ae" tvg-shift="3" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/650950b4e7.jpg" group-title="SPORT",Abu Dhabi SPORTS 2
-https://admdn5.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
 #EXTINF:-1 tvg-id="AlkassOneHD.qa" tvg-shift="3" tvg-name="Alkass One HD" tvg-logo="https://i.imgur.com/GA687x7.png" group-title="SPORT",Alkass One HD
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtgb/master.m3u8
 #EXTINF:-1 tvg-id="AlkassTowHD.qa" tvg-shift="3" tvg-name="Alkass Tow HD" tvg-logo="https://i.imgur.com/VLfLSHJ.png" group-title="SPORT",Alkass Tow HD
