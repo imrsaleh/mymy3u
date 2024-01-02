@@ -94,6 +94,8 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-045/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="DAZN2.uk" tvg-shift="3" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/XFaBYmu.png" group-title="SPORT",DAZN 2
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
+#EXTINF:-1 tvg-name="DAZN COMBAT" tvg-logo="https://i.imgur.com/KJZP8HY.png" group-title="SPORT",DAZN COMBAT
+https://ev-fast-mpd.starzplayarabia.com/live/eds/DAZN/DASH/DAZN.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e626fde80e4e4b7a861e2baf6bc57f15:65353afe78a59e496a2dc417888666f3
@@ -186,6 +188,14 @@ https://edge.taghtia.com/sa/1.m3u8
 http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/6509586b42.jpg" group-title="قنوات عربية",AL Emarat TV
 https://admdn3ta.cdn.mgmlcdn.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a3da3ceae9d9f6b2b5094ffd3017c34:aa8ed227ee7b2707ba58564fd186b8ed
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="DUBAI.ae" tvg-name="DUBAI" tvg-logo="https://i.imgur.com/4I6PHXr.png" group-title="قنوات عربية",DUBAI
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Dubai_TV_HD/DASH/Dubai_TV_HD.mpd
+#EXTINF:-1 tvg-id="Sharjah.ae" tvg-name="Sharjah" tvg-logo="https://i.imgur.com/NQrNQhp.png" group-title="قنوات عربية",Sharjah
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Sharjah_TV_HD/DASH/Sharjah_TV_HD.mpd
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-shift="3" tvg-name="Al Quran Al Kareem TV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="قنوات عربية",Al Quran Al Kareem TV
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-shift="3" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="قنوات عربية",Al Sunnah Al Nabawiyah TV
