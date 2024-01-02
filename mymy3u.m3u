@@ -100,10 +100,6 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="FIGHTSports.ae" tvg-name="FIGHT Sports" tvg-shift="3" tvg-logo="https://i.imgur.com/GPjTw8r.png" group-title="SPORT",FIGHT Sports
 https://shls-fight-sports-ak.akamaized.net/out/v1/8c94a06719494f79bc7e8c3bcd19283c/index.mpd
-#EXTINF:-1 tvg-id="BollywoodHD.ae" tvg-name="Bollywood HD" tvg-shift="3" tvg-logo="https://i.imgur.com/MlzcJ4N.png" group-title="قنوات عربية",Bollywood HD
-https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
-#EXTINF:-1 tvg-id="BollywoodClassic.ae" tvg-name="Bollywood Classic" tvg-shift="3" tvg-logo="https://i.imgur.com/NbMXtqP.png" group-title="قنوات عربية",Bollywood Classic
-https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/3/31/%D8%A3%D9%83%D8%B4%D9%86_%D9%85%D8%B9_%D9%88%D9%84%D9%8A%D8%AF.png" group-title="SPORT",ActionWaleed_11:30KSA
 https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae" tvg-shift="3" tvg-name="Alarabiya" tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="قنوات عربية",Alarabiya
@@ -262,6 +258,10 @@ https://criclive2.starzplayarabia.com/out/v1/1b232653e5254150a60a577cc8db682f/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rDxJuhv.png" group-title="قنوات عربية",CricLife 3
 https://cmaxlive.starzplayarabia.com/out/v1/bebec73ea17b40b3bd0257ad8e97b531/index.mpd
+#EXTINF:-1 tvg-id="BollywoodHD.ae" tvg-name="Bollywood HD" tvg-shift="3" tvg-logo="https://i.imgur.com/MlzcJ4N.png" group-title="قنوات عربية",Bollywood HD
+https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+#EXTINF:-1 tvg-id="BollywoodClassic.ae" tvg-name="Bollywood Classic" tvg-shift="3" tvg-logo="https://i.imgur.com/NbMXtqP.png" group-title="قنوات عربية",Bollywood Classic
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4080954e835e8d3d1b6af8151b1c6314:8a6d2f9de5a561f4e1be424aae428c25
