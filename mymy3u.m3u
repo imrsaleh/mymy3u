@@ -185,9 +185,11 @@ https://edge.taghtia.com/sa/17.m3u8
 #EXTINF:-1 tvg-id="SBC.sa" tvg-shift="3" tvg-name="SBC" tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="قنوات عربية",SBC  
 https://edge.taghtia.com/sa/1.m3u8
 #EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/6509580a26.jpg" group-title="قنوات عربية",Abu Dhabi TV
-http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiChannel/HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/6509586b42.jpg" group-title="قنوات عربية",AL Emarat TV
-https://admdn3ta.cdn.mgmlcdn.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/EmiratesChannel/HLS/variant.m3u8
+#EXTINF:-1 tvg-name="ياس" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/Yas-TV-live-logo.png" group-title="قنوات عربية",ياس
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/YASSportsChannel/HLS/variant.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a3da3ceae9d9f6b2b5094ffd3017c34:aa8ed227ee7b2707ba58564fd186b8ed
