@@ -1,0 +1,199 @@
+#EXTM3U
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c643304b9f4513b30351f0111db4e7:c3e353c84731436b9ea1c334217de284
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",48
+https://mbcvod-enc.edgenextcdn.net/out/v1/3e0860b8b142483fbca867ecc02c586a/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b19a5b7976b4a1db87d88257815bffa:e40d3d8bd236b7f675f45b6936dd4b14
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",49
+https://mbcvod-enc.edgenextcdn.net/out/v1/b45b95f0cc364c6fa41c792ee82f260c/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b98463773c64f34b7c7ecd94a19021a:efb0d1099fef5a5d62c907acaba6f3dd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",50
+https://mbcvod-enc.edgenextcdn.net/out/v1/aa23840c0191467787cbeb4e8e514cb5/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71eb178bc09240a59dfc7e89a679d885:7f1914d5e2dd22dbb2e3705816c491cc
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",51
+https://mbcvod-enc.edgenextcdn.net/out/v1/bc8d33cc56fa4a10b88e31491242e6fb/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64ad1641f7034534beabb48e006310e0:8581a07c1f3e588cae45044de260d061
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",52
+https://mbcvod-enc.edgenextcdn.net/out/v1/8f1b9e730ea944feb17e982dd9db4eae/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcca8cbc2ca848a3b70135a5f51c6728:bcf413ea20ea5680aad724adcb506188
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",53
+https://mbcvod-enc.edgenextcdn.net/out/v1/8413009ac6084453a3adbedc5e4223f9/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de9bbe2215804dba98b54c6bbfd73477:fdc4b5cca464f804a1568530268af4ca
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",54
+https://mbcvod-enc.edgenextcdn.net/out/v1/ef385d27786f454faaf8ceb2c8b9014a/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b66707b63f5049d0a9a893e38057a4b9:6201563ef52367ac22347f8cbcd4ba26
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",55
+https://mbcvod-enc.edgenextcdn.net/out/v1/c8a5270cf3e54f97848848a1060db422/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fce681abab6d4f71b7190dbf2cba3a57:4bdcb061ce31fa0939edc7ae6c21153e
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",56
+https://mbcvod-enc.edgenextcdn.net/out/v1/1deb2654aac1457cbe27a2177c26e5da/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30b2a2f60742433fa576cb03d4efa362:b4c10e214cf336ba3c85d7654a470a60
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",57
+https://mbcvod-enc.edgenextcdn.net/out/v1/7108d1e344cb4b948558e6e88c2443aa/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0df377068f0343fdb1d2b08b1d595d4d:22d32b19c943b9ac21a754a3d63c69b0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",58
+https://mbcvod-enc.edgenextcdn.net/out/v1/3a18fa7a615649ca8d8fab54aa01fc73/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4680aa12ad414d3fb6e934c26e2747f9:db1a4d910545b7dc22c1a7d2da6effa9
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",59
+https://mbcvod-enc.edgenextcdn.net/out/v1/f4a02610b7f9412aa170a88b06f1d976/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=883e7bb8b511455b9f77b415e59f0b5a:196d0500abbcf788ef720621c81d9706
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",60
+https://mbcvod-enc.edgenextcdn.net/out/v1/c2844411caf24148804493850210054f/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e41f30305a743e6beeefec656048078:acea915d89a4e717f93f3a1bf5555eaf
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",61
+https://mbcvod-enc.edgenextcdn.net/out/v1/fb2424a1f748403aa887e3905c29c170/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f61f0b3e159247dfb2a1c0f213831560:cadb89edcccf579205a90fa7c6f8c123
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",62
+https://mbcvod-enc.edgenextcdn.net/out/v1/b0b50137a56b4c1c82d2539cc1dd9236/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3774dd08fe854c3a8eef437aad68e5cc:374c5d0a77368bb6868bfabc3a00b820
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",63
+https://mbcvod-enc.edgenextcdn.net/out/v1/7fe2eee790964747b3b1ae758ca7153d/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9464a3f661f4593af5905b4877cdc42:31c28778bf280a28e7321b755d716108
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",64
+https://mbcvod-enc.edgenextcdn.net/out/v1/c578c8c8113a4678aa6a75f6971cd2b1/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=014cd5e62401494ba62223b7b5cc5367:786167f2974ff87a0c09446cbd2c52ba
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",65
+https://mbcvod-enc.edgenextcdn.net/out/v1/549981434bdc4ed6bf0d2fa35106b131/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e658bb486bf4ca68eea890ad41f44e3:927282cd3ed735584040d99189d9a66f
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",66
+https://mbcvod-enc.edgenextcdn.net/out/v1/549ed25ef43147ba8d93e8061f8eede4/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb0af2f5c1f44777bec1ad1413070c0d:d503311a8ce05b554d1db5f6a4182cc1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",67
+https://mbcvod-enc.edgenextcdn.net/out/v1/987ffbf00c36408d8c4c263096b75bdd/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a81583db977a4a98afe5f161ef97c995:a9aa9618104c39423a164b5b5865bfca
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",68
+https://mbcvod-enc.edgenextcdn.net/out/v1/9d21b76c5a434f658933c9e5d546ef16/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0452e5b69fd84a22931d3addf964efd6:4bcad0b00958bba1b1e4951e524a5051
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",69
+https://mbcvod-enc.edgenextcdn.net/out/v1/c936ce4dbe5443ed9f143a64ba7c866b/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=751d3e1b5c8f47aa933ad83460082553:0bd747552c637563a939fadea9f16418
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",70
+https://mbcvod-enc.edgenextcdn.net/out/v1/41f8ab92d0fe4b0e943f1bab171de392/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d40487bdeab544caae75203338c76faa:cdff2a1f62fe91a8233703eef80cabd1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",71
+https://mbcvod-enc.edgenextcdn.net/out/v1/a0a0844d5e21421e8b39a648a91f9d09/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=35cc096e2fd447de8842a643d5ff8883:2ba4d14d77990460def4fe2301797338
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",72
+https://mbcvod-enc.edgenextcdn.net/out/v1/c42cf4e303354a7f8442110c8fe14a2f/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=810f8ba3ba0f4a559a42108d763ca891:772cbb794a5a0c99cf3c71d7d6ab9322
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",73
+https://mbcvod-enc.edgenextcdn.net/out/v1/771ff65160124c4db5e152d94bf407bb/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6040974815204c33b79a15878b3c151a:8a101669548d5cecf8b74397b7fd5035
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",74
+https://mbcvod-enc.edgenextcdn.net/out/v1/8f7a2221eb2a44c2a03cca9c381b81ff/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b466aced654422b9a500db3437dc822:a0a34d66b2f3b5b2536d4eb2f512f779
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",75
+https://mbcvod-enc.edgenextcdn.net/out/v1/347032c34c0f4df5938b5284ff44135f/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=930372b05d9a4eec8dbbfee522d20893:68dcadd6349e93604841d069db816b52
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",76
+https://mbcvod-enc.edgenextcdn.net/out/v1/15d46160e2ca4a11bea768596b5e814f/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbc1ceb299da4fb4a30adc7dc559ba80:ea22a0c938128bdc6ef7e1ee61e062d0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",77
+https://mbcvod-enc.edgenextcdn.net/out/v1/aa3ca5d3f6444fcb929ea63c56be68dc/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77e817a3efb74a5896410b2b707a19d7:b00b622046fd0748095646048aa7d192
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",78
+https://mbcvod-enc.edgenextcdn.net/out/v1/193f88c478cf472598edc05aa4545607/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c0f86b35e7d48adbdfdadec1581bb76:07f79d4fc9227f7d91d4b657752376db
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",79
+https://mbcvod-enc.edgenextcdn.net/out/v1/a900290c0ca44521849c0423e64d4f5d/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e75aa77d5b141428a0567179dfb7ea9:2e2ecf5e617b8787d04fe9e8b605cb4e
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/AMRJUL/LogoAR_yabani/original/LogoAR_yabani.png" group-title="المتوحش",80
+https://mbcvod-enc.edgenextcdn.net/out/v1/c844d278979143759a2c1cad659575ba/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
