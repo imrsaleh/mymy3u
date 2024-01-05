@@ -389,4 +389,48 @@ https://mbcvod-enc.edgenextcdn.net/out/v1/3eafc42d095e4dc0b11aab720c7b8a22/22166
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W2OJBpK.png" group-title="اسرار البيوت الموسم الاول", اسرار البيوت 65
 https://mbcvod-enc.edgenextcdn.net/out/v1/55a02e97a7d3411db9788eec93c69bc9/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bih7Mvp.png" group-title="جميل جدا",1
+https://mbcvod-enc.edgenextcdn.net/out/v1/967fdf2da9b5480ab7b94c62264f8ebd/7bd08708120843ec82094592ed443dd8/c7352070ac68430b8a754384734b3ae9/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8f9ed928a6d4841a8fc66097251af43:abe954e98e85d2c0217e4a150a5ccc00
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bih7Mvp.png" group-title="جميل جدا",2
+https://mbcvod-enc.edgenextcdn.net/out/v1/76f34def8593466490beba7758ffabd7/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6eb0f8df2ec840228de0d06699078660:0b2c5fcf1a2e6419c62d4ad5a06e676c
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bih7Mvp.png" group-title="جميل جدا",3
+https://mbcvod-enc.edgenextcdn.net/out/v1/f76c0580f5dd4282a92942903cd9b553/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed81e4031eff4e79a1e3cbf22e1a6143:70956230643ee86a48e73c3ce0b8c42c
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bih7Mvp.png" group-title="جميل جدا",4
+https://mbcvod-enc.edgenextcdn.net/out/v1/89552dd2684541f680e951ef84885ae4/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46774cc71af243fe87a7a17763408d95:c7d2456d49ac8995fb773322aabdf0f9
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bih7Mvp.png" group-title="جميل جدا",5
+https://mbcvod-enc.edgenextcdn.net/out/v1/03b796b591884db2a385b72095d68228/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbfcca84131744bc927b3969d8c71d3a:5aef5f558551faebeb2445efc7147317
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bih7Mvp.png" group-title="جميل جدا",6
+https://mbcvod-enc.edgenextcdn.net/out/v1/65346f7698d3474ba66f9585a0e8baa6/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca194bb9f55f4edf98c3ec2ed1c5c8d8:410c2e2924af2803f02a377394fcc50f
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Ramadan/Logo_Slave_ar/original/Logo_Slave_ar.png" group-title="دكة العبيد 2 ",1
+https://mbcvod-enc.edgenextcdn.net/out/v1/441b691664194d79a3bb720d32e4d8ef/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e289a18d608d454d9439898536864d69:15a71e9bdb2e827b088a14ace2e2daec
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Ramadan/Logo_Slave_ar/original/Logo_Slave_ar.png" group-title="دكة العبيد 2 ",2
+https://mbcvod-enc.edgenextcdn.net/out/v1/d9de842cc2f34c07930c5dd9a2cf8dcb/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd
 
